@@ -1,7 +1,7 @@
 # ☕ Coffee Shop Sales Dashboard (Power BI)
 
 ## 🖼️ Dashboard Preview
-<p align="center"> <img src="COFFEESALES.png" width="900"/> </p>
+<p align="center"> <img src="COFFESALES.png" width="900"/> </p>
 
 ## 📊 Overview
 
